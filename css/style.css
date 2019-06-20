@@ -1,0 +1,44 @@
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.content{
+	padding:.5em;
+}
+.brand-image{
+	height:3em;
+}
+.top-nav{
+	border-bottom: .25em solid #e61b33;
+}
+
+thead,.table-head{
+	background-color: #e61b33;
+	color: white;
+	font-weight: 400;
+}
+
+.video-content{
+  padding-top: 3em;
+}
+
+.running-text{
+	background-color:#e61b33; 
+	padding: .5em 1em;
+}
+.running-content{
+	font-color:white;
+	font-weight: 400;
+}
+
+.bg-red{
+	background-color: #e61b33;
+	color:white;
+	font-weight: 600;
+	width: 30%;
+}
